@@ -1,9 +1,7 @@
 /* 
  * Peg solitaire main file 
  * Includes utilities for verifying moves
- * 
- * 15-122 Principles of Imperative Computation
- * Frank Pfenning */
+ */
 
 #use <args>
 #use <conio>
