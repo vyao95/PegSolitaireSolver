@@ -1,9 +1,7 @@
 Peg Solitare
 
    peg-client.c0   - Client side implementation for stacks and hash tables
-   peg1.c0         - Peg solitaire, no backtracking
-   peg2.c0         - Peg solitaire, with backtracking 
-   peg3.c0         - Peg solitaire, with backtracking and hashtables
+   peg1.c0         - Peg solitaire
 
 Data:
    german.txt      - A trivial-to-solve board
