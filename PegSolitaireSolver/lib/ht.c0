@@ -1,9 +1,3 @@
-/*
- * Hash tables (dynamically size adjusting)
- *
- * 15-122 Principles of Imperative Computation, Fall 2012
- */
-
 #use <conio>
 #use <string>
 #use <util>
