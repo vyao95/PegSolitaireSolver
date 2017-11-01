@@ -1,8 +1,7 @@
 /*
  * Peg solitaire
  * Client-side implementations
- *
- * 15-122 Principles of Imperative Computation */
+ */
 
 /* Client interface for stacks. */
 /* See lib/stacks.c0 */
